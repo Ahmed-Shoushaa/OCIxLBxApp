@@ -1,2 +1,2 @@
 # OCIxLBxApp
-Creating OCI infrastructure for a apache server web app with a load balancer using terraform 
+Creating OCI infrastructure for apache server web app with a load balancer using terraform 
